@@ -1,3 +1,10 @@
+"""
+Arbeidskrav1
+Enkelt program for bergening av kostnader for henholdsvis bensinbil og elbil
+samt differensen av kostnader mellom biltypene.
+"""
+
+
 # variabler brukt for kalulering av kostnader per år
 km_year = 20000
 forsikring_el = 5000
