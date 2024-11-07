@@ -13,7 +13,7 @@ tot_kost_el = round(forsikring_el + trafikkforsikringsavgift + drivfsoff_el + bo
 tot_kost_bensin = round(forsikring_bensin + trafikkforsikringsavgift + drivfsoff_bensin + bom_bensin)
 diff_bensin_el = round(tot_kost_bensin - tot_kost_el)
 
-# Presentasjon av årlige kostnader
+# Presentasjon av årlige kostnader.
 print(f"Den totale årlige kostnaden for bensinbil er kr {tot_kost_bensin},-")
 print(f"Den totale årlige kostnaden for elbil er kr {tot_kost_el},-")
 print(f"Årlig kostnadsdifferansen mellom bensin og elbil er på kr {diff_bensin_el},-")
