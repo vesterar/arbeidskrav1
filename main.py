@@ -1,7 +1,7 @@
 """
 Arbeidskrav1
-Enkelt program for bergening av kostnader for henholdsvis bensinbil og elbil,
-samt differensen av kostnader mellom biltypene.
+Enkelt program for bergening av årlige kostnader for henholdsvis bensinbil
+og elbil, samt differensen av kostnader mellom biltypene.
 """
 
 # variabler brukt for beregning av kostnader per år.
