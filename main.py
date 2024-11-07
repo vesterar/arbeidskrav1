@@ -4,7 +4,6 @@ Enkelt program for bergening av kostnader for henholdsvis bensinbil og elbil
 samt differensen av kostnader mellom biltypene.
 """
 
-
 # variabler brukt for kalulering av kostnader per år
 km_year = 20000
 forsikring_el = 5000
@@ -23,4 +22,4 @@ diff_bensin_el = round(tot_kost_bensin - tot_kost_el)
 # Presentasjon av årlige kostnader.
 print(f"Den totale årlige kostnaden for bensinbil er kr {tot_kost_bensin},-")
 print(f"Den totale årlige kostnaden for elbil er kr {tot_kost_el},-")
-print(f"Årlig kostnadsdifferansen mellom bensin og elbil er på kr {diff_bensin_el},-")
+print(f"Årlig kostnadsdifferanse mellom bensin og elbil er på kr {diff_bensin_el},-")
